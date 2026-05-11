@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CinemaLib</string>
+
+    <!-- Settings !-->
+    <string name="select_language">Wybierz język</string>
+    <string name="theme">Motyw</string>
+
+    <!-- Main !-->
+    <string name="most_popular">Najbardziej popularne</string>
+    <string name="top_rated">Najwyżej ocenione</string>
+    <string name="upcoming">Nadchodzące</string>
+    <string name="back_label">Powrót</string>
+
+    <string name="loading">Wczytywanie…</string>
+</resources>
