@@ -67,7 +67,7 @@ fun MovieCard(
                     text = (String.format(
                         LocalLocale.current.platformLocale, "%.1f ★", movie.voteAverage
                     )),
-                    color = textColor,
+                    color = colorResource(R.color.white),
                     style = TextStyle(
                         fontSize = 11.sp,
                         shadow = Shadow(
